@@ -1,0 +1,48 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Environment variables and secrets
+.env
+.env.*
+
+# VS Code settings
+.vscode/
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# Logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node.js dependencies (if you have a frontend)
+node_modules/
+
+# LangSmith / cache
+.cache/
+
+# Testing
+.pytest_cache/
+
+# Coverage reports
+.coverage
+htmlcov/
+
+# Streamlit (if used)
+.streamlit/
+
+# Temporary files
+temp/
+tmp/
