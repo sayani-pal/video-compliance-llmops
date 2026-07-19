@@ -1,4 +1,4 @@
-#  Azure Multi-Modal Compliance Orchestration Engine using LangGraph and Langsmith
+#  Azure Multi-Modal Compliance Orchestration Engine using LangGraph and LangSmith
 
 ## 📌 Overview
 
