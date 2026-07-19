@@ -59,7 +59,7 @@ Structured JSON Report
 
 ### AI and LLM
 
-* Azure OpenAI (GPT-4o)
+* Azure OpenAI (GPT-5)
 * Azure OpenAI Embeddings
 * LangGraph
 * LangChain
